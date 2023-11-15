@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.example1.com",
+    "name": "Example 1",
+    "folder": "Folder 1",
+    "tag": ["tag1", "tag2"]
+  },
+  {
+    "url": "https://www.example2.com",
+    "name": "Example 2",
+    "folder": "Folder 2",
+    "tag": ["tag2", "tag3"]
+  },
+  {
+    "url": "https://www.example3.com",
+    "name": "Example 3",
+    "folder": "Folder 1",
+    "tag": ["tag1", "tag3"]
+  },
+  {
+    "url": "https://www.example4.com",
+    "name": "Example 4",
+    "folder": "Folder 3",
+    "tag": ["tag2"]
+  },
+  {
+    "url": "https://www.example5.com",
+    "name": "Example 5",
+    "folder": "Folder 2",
+    "tag": ["tag1", "tag3"]
+  }
+]
